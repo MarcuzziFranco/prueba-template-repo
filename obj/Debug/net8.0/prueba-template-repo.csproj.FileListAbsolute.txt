@@ -1,0 +1,14 @@
+/workspaces/environment-net-8.0/prueba-template-repo/bin/Debug/net8.0/prueba-template-repo
+/workspaces/environment-net-8.0/prueba-template-repo/bin/Debug/net8.0/prueba-template-repo.deps.json
+/workspaces/environment-net-8.0/prueba-template-repo/bin/Debug/net8.0/prueba-template-repo.runtimeconfig.json
+/workspaces/environment-net-8.0/prueba-template-repo/bin/Debug/net8.0/prueba-template-repo.dll
+/workspaces/environment-net-8.0/prueba-template-repo/bin/Debug/net8.0/prueba-template-repo.pdb
+/workspaces/environment-net-8.0/prueba-template-repo/obj/Debug/net8.0/prueba-template-repo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/environment-net-8.0/prueba-template-repo/obj/Debug/net8.0/prueba-template-repo.AssemblyInfoInputs.cache
+/workspaces/environment-net-8.0/prueba-template-repo/obj/Debug/net8.0/prueba-template-repo.AssemblyInfo.cs
+/workspaces/environment-net-8.0/prueba-template-repo/obj/Debug/net8.0/prueba-template-repo.csproj.CoreCompileInputs.cache
+/workspaces/environment-net-8.0/prueba-template-repo/obj/Debug/net8.0/prueba-template-repo.dll
+/workspaces/environment-net-8.0/prueba-template-repo/obj/Debug/net8.0/refint/prueba-template-repo.dll
+/workspaces/environment-net-8.0/prueba-template-repo/obj/Debug/net8.0/prueba-template-repo.pdb
+/workspaces/environment-net-8.0/prueba-template-repo/obj/Debug/net8.0/prueba-template-repo.genruntimeconfig.cache
+/workspaces/environment-net-8.0/prueba-template-repo/obj/Debug/net8.0/ref/prueba-template-repo.dll
